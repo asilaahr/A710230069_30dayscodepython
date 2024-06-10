@@ -6,6 +6,6 @@ student = {
 }
 
 # Mengakses nilai
-print(student["name"])  # Output: John
+print(student["name"])  # Output: Regi 
 print(student["age"])   # Output: 21
 print(student["grade"]) # Output: A 
