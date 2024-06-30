@@ -1,4 +1,4 @@
-#PYTHON DASAR
+#oop
 
 class RekeningBank:
     def __init__(self, nama_pemilik, saldo):
