@@ -1,3 +1,4 @@
+#python dasar
 # Program untuk menjumlahkan dua angka
 
 # Meminta input dari pengguna
