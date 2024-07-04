@@ -1,3 +1,5 @@
+#OOP PYTHON
+
 class Kendaraan:
     def __init__(self, merk, model):
         self.merk = merk
